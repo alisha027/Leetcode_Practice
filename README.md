@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
