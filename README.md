@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 ## Trie
 |  |
 | ------- |
