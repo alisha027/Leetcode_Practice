@@ -105,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/alisha027/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
