@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/alisha027/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/alisha027/Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
