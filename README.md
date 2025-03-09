@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/alisha027/Leetcode_Practice/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/alisha027/Leetcode_Practice/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/alisha027/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/alisha027/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
