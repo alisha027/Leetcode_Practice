@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alisha027/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/alisha027/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alisha027/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/alisha027/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/alisha027/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/alisha027/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
