@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/alisha027/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/alisha027/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/alisha027/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 ## String Matching
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/alisha027/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 ## Matrix
