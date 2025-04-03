@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/alisha027/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/alisha027/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/alisha027/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
