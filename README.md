@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/alisha027/Leetcode_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/alisha027/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/alisha027/Leetcode_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Memoization
 |  |
 | ------- |
