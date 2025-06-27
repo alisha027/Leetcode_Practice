@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alisha027/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/alisha027/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
