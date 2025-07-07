@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## String
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/alisha027/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 ## String Matching
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alisha027/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
