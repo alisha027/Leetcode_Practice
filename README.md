@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/alisha027/Leetcode_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## String
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/alisha027/Leetcode_Practice/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/alisha027/Leetcode_Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/alisha027/Leetcode_Practice/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Memoization
 |  |
 | ------- |
@@ -274,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/alisha027/Leetcode_Practice/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/alisha027/Leetcode_Practice/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0619-biggest-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Ordered Set
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
