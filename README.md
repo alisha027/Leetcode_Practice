@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/alisha027/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 ## String Matching
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/alisha027/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/alisha027/Leetcode_Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/alisha027/Leetcode_Practice/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
 ## Binary Search
 |  |
