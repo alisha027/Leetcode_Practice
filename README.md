@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
+| [1250-longest-common-subsequence](https://github.com/alisha027/Leetcode_Practice/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alisha027/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/alisha027/Leetcode_Practice/tree/master/0322-coin-change) |
+| [1250-longest-common-subsequence](https://github.com/alisha027/Leetcode_Practice/tree/master/1250-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
