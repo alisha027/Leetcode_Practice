@@ -22,7 +22,7 @@ public:
 
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> memo(n + 1, vector<int>(2, -1));  
+        vector<vector<int>> memo(n + 1, vector<int>(3, -1));  
         return solve(prices, 0, 1, memo);  
     }
 };
