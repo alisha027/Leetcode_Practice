@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/alisha027/Leetcode_Practice/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/alisha027/Leetcode_Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0136-single-number) |
 ## Two Pointers
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/alisha027/Leetcode_Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alisha027/Leetcode_Practice/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/alisha027/Leetcode_Practice/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/alisha027/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 ## Matrix
