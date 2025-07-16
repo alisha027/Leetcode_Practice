@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
+| [0307-range-sum-query-mutable](https://github.com/alisha027/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/alisha027/Leetcode_Practice/tree/master/0322-coin-change) |
 | [0735-asteroid-collision](https://github.com/alisha027/Leetcode_Practice/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/alisha027/Leetcode_Practice/tree/master/0907-koko-eating-bananas) |
@@ -313,4 +314,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/alisha027/Leetcode_Practice/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/alisha027/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/alisha027/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/alisha027/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
