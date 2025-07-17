@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/alisha027/Leetcode_Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/alisha027/Leetcode_Practice/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/alisha027/Leetcode_Practice/tree/master/0619-biggest-single-number) |
+| [0627-swap-salary](https://github.com/alisha027/Leetcode_Practice/tree/master/0627-swap-salary) |
 ## Prefix Sum
 |  |
 | ------- |
