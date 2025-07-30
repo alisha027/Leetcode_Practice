@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/alisha027/Leetcode_Practice/tree/master/1301-reformat-department-table) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/alisha027/Leetcode_Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Prefix Sum
 |  |
 | ------- |
