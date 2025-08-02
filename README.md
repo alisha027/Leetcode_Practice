@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/alisha027/Leetcode_Practice/tree/master/1301-reformat-department-table) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/alisha027/Leetcode_Practice/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/alisha027/Leetcode_Practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/alisha027/Leetcode_Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
 | ------- |
