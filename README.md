@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/alisha027/Leetcode_Practice/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/alisha027/Leetcode_Practice/tree/master/1625-group-sold-products-by-the-date) |
 | [2024-calculate-special-bonus](https://github.com/alisha027/Leetcode_Practice/tree/master/2024-calculate-special-bonus) |
+| [2110-employees-with-missing-information](https://github.com/alisha027/Leetcode_Practice/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/alisha027/Leetcode_Practice/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/alisha027/Leetcode_Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
