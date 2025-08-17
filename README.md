@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/alisha027/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/alisha027/Leetcode_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/alisha027/Leetcode_Practice/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/alisha027/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/alisha027/Leetcode_Practice/tree/master/0169-majority-element) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/alisha027/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/alisha027/Leetcode_Practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/alisha027/Leetcode_Practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/alisha027/Leetcode_Practice/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/alisha027/Leetcode_Practice/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/0212-word-search-ii) |
