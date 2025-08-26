@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/alisha027/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/alisha027/Leetcode_Practice/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/alisha027/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/alisha027/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/alisha027/Leetcode_Practice/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
