@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/alisha027/Leetcode_Practice/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/alisha027/Leetcode_Practice/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/alisha027/Leetcode_Practice/tree/master/1625-group-sold-products-by-the-date) |
+| [1801-average-time-of-process-per-machine](https://github.com/alisha027/Leetcode_Practice/tree/master/1801-average-time-of-process-per-machine) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/alisha027/Leetcode_Practice/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/alisha027/Leetcode_Practice/tree/master/2024-calculate-special-bonus) |
 | [2110-employees-with-missing-information](https://github.com/alisha027/Leetcode_Practice/tree/master/2110-employees-with-missing-information) |
