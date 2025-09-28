@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/alisha027/Leetcode_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/alisha027/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/alisha027/Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/alisha027/Leetcode_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/alisha027/Leetcode_Practice/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/alisha027/Leetcode_Practice/tree/master/0097-interleaving-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/alisha027/Leetcode_Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/alisha027/Leetcode_Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/alisha027/Leetcode_Practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/alisha027/Leetcode_Practice/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/alisha027/Leetcode_Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/alisha027/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/alisha027/Leetcode_Practice/tree/master/0070-climbing-stairs) |
@@ -428,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/alisha027/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/alisha027/Leetcode_Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
