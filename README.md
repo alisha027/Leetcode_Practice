@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/alisha027/Leetcode_Practice/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1161-project-employees-i) |
+| [1174-sales-analysis-iii](https://github.com/alisha027/Leetcode_Practice/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1179-game-play-analysis-i) |
 | [1301-reformat-department-table](https://github.com/alisha027/Leetcode_Practice/tree/master/1301-reformat-department-table) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/alisha027/Leetcode_Practice/tree/master/1327-last-person-to-fit-in-the-bus) |
