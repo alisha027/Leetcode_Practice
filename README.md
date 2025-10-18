@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/alisha027/Leetcode_Practice/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/alisha027/Leetcode_Practice/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/alisha027/Leetcode_Practice/tree/master/2041-the-latest-login-in-2020) |
+| [2087-confirmation-rate](https://github.com/alisha027/Leetcode_Practice/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/alisha027/Leetcode_Practice/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/alisha027/Leetcode_Practice/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/alisha027/Leetcode_Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
