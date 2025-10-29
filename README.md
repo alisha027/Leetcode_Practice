@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-sales-analysis-iii](https://github.com/alisha027/Leetcode_Practice/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1258-article-views-i) |
+| [1268-market-analysis-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/alisha027/Leetcode_Practice/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/alisha027/Leetcode_Practice/tree/master/1301-reformat-department-table) |
 | [1317-monthly-transactions-i](https://github.com/alisha027/Leetcode_Practice/tree/master/1317-monthly-transactions-i) |
