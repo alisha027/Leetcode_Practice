@@ -8,8 +8,8 @@
 //             while(!st.empty() && heights[st.top()]>=heights[i]){
 //                 st.pop();
 //             }
-//             if(st.empty()){
-//                 nse.push_back(n);
+//             if(!st.empty()){
+//                 nse.push_back(st.top());
 //             }
 //             st.push(i);
 //         }
@@ -20,8 +20,8 @@
 //             while(!st2.empty() && heights[st2.top()]>=heights[i]){
 //                 st2.pop();
 //             }
-//             if(st2.empty()){
-//                 pse.push_back(-1);
+//             if(!st2.empty()){
+//                 pse.push_back(st.top());
 //             }
 //             st2.push(i);
 //         }
